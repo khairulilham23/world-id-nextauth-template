@@ -15,8 +15,7 @@ Go to [NextAuth's documentation](https://next-auth.js.org) and [Worldcoin's Sign
 Click the "Use this Template" button to create a new repository from this template.
 
 ```
-git clone your_repo_url
-cd your_repo_name
+clone your_repo_urlcd your_repo_name
 pnpm i
 ```
 
